@@ -1,1 +1,2 @@
-# skillfactory_rds
+# SkillFactory study projects
+
