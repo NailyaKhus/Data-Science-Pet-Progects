@@ -1,4 +1,4 @@
-### Project 1. Guess a number             
+### Guess a number             
 Game: The computer guesses an integer from 1 to 100. You need to write a program that guesses the guessed number in the minimum number of attempts.                                                                    
 Run the game 1000 times and count the average number of attempts when searching for the hidden number.                 
                                         
