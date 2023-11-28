@@ -1,7 +1,7 @@
 # DS Pet projects
 
                             
-###<a href="[[https://daniilshat.ru/](https://github.com/NailyaKhus/Data-Science-Pet-Progects/tree/master/project_1%20%D0%9A%D1%82%D0%BE%20%D1%85%D0%BE%D1%87%D0%B5%D1%82%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%20%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D0%BE%D0%BC.%20Pandas%20practice)](https://github.com/NailyaKhus/Data-Science-Pet-Progects/tree/master/project_1%20%D0%9A%D1%82%D0%BE%20%D1%85%D0%BE%D1%87%D0%B5%D1%82%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%20%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D0%BE%D0%BC.%20Pandas%20practice)" target="_blank">Project 1. Who wants to be a movie millionaire</a>              
+<a href="[[https://daniilshat.ru/](https://github.com/NailyaKhus/Data-Science-Pet-Progects/tree/master/project_1%20%D0%9A%D1%82%D0%BE%20%D1%85%D0%BE%D1%87%D0%B5%D1%82%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%20%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D0%BE%D0%BC.%20Pandas%20practice)](https://github.com/NailyaKhus/Data-Science-Pet-Progects/tree/master/project_1%20%D0%9A%D1%82%D0%BE%20%D1%85%D0%BE%D1%87%D0%B5%D1%82%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%20%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D0%BE%D0%BC.%20Pandas%20practice)" target="_blank">Project 1. Who wants to be a movie millionaire</a>              
 **Project objective:**                              
 Practical implementation of the pandas library for data analysis.                 
 **Implemented methods:**                        
