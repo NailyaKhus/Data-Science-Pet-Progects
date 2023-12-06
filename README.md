@@ -55,7 +55,7 @@ Create a sales forecast for each of 33 product family in each of 54 store.
 EDA, Feature Engineering, Dickey-Fuller test, determining the significance of features, Student's test for categorical features, Moving Average, ARIMA, Holt-Winters, Prophet, CatBoostRegression, LSTM                                 
 
 
-[Project_9 Web Scraping+Time series_Predict currency with Binance data](https://github.com/NailyaKhus/Data-Science-Pet-Progects/tree/master/Project_9%20Web%20Scraping%2BTime%20series_Predict%20currency%20with%20Binance%20data)              
+[Project_9 Web Scraping+Time series_Predict currency with Binance data](https://github.com/NailyaKhus/Data-Science-Pet-Progects/tree/master/Project_9%20Web%20Scraping%2BTime%20series_Predict%20currency%20quotes%20with%20Binance%20data)              
 **Project objective:**                              
 Pulling data out of Binance site and predicting the cryptocurrency quotes.                 
 **Implemented methods:**                     
